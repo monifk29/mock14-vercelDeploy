@@ -1,0 +1,14 @@
+.container{
+    border: 10px solid turquoise;
+    width: 40%;
+    margin: auto;
+    margin-top: 150px;
+    background-color: teal;
+    color: white;
+    padding: 50px 10px;
+
+    font-size: large;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
